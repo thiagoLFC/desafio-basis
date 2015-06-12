@@ -7,8 +7,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		//Colocar uma String para testar o balanceamento
-		String teste = "";
-		System.out.println(validarBalanceamento(teste , 0, 0));
+		String texto = "";
+		System.out.println(validarBalanceamento(texto , 0, 0));
 	}
 
 	/**
